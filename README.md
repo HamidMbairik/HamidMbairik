@@ -1,37 +1,70 @@
-<!-- ========== ANIMATED HEADER ========== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9A33FF&center=true&vCenter=true&width=900&lines=Hamid+Mbairik;Freelance+Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Building+sites+for+startups+%26+small+businesses;Open+for+freelance+work" />
-</p>
+# Hamid Mbairik · CorgaDev
 
-<p align="center">
-  <a href="https://portfolio-bay-tau-73.vercel.app">🌐 My Portfolio</a> · 📩 Open for freelance projects
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,vite,nodejs,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidMbairik&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 📌 Status
-
-```txt
-ROLE      : Freelance Frontend Developer (CorgaDev)
-FOCUS     : React · TypeScript · Tailwind CSS · Landing pages & business sites
-LOCATION  : Morocco
-AVAILABLE : Open for freelance work
+```
+▓▓▓▓▓ ▓▓▓▓▓ ▓▓▓▓▓ ▓▓▓▓▓ ▓▓▓▓▓ ▓▓▓▓▓ ▓▓▓▓▓ ▓   ▓
+▓     ▓   ▓ ▓   ▓ ▓     ▓   ▓ ▓   ▓ ▓     ▓   ▓
+▓     ▓   ▓ ▓▓▓▓▓ ▓ ▓▓▓ ▓▓▓▓▓ ▓   ▓ ▓▓▓▓  ▓   ▓
+▓     ▓   ▓ ▓ ▓   ▓   ▓ ▓   ▓ ▓   ▓ ▓     ▓   ▓
+▓▓▓▓▓ ▓▓▓▓▓ ▓  ▓  ▓▓▓▓▓ ▓   ▓ ▓▓▓▓▓ ▓▓▓▓▓  ▓▓▓ 
 ```
 
-## 🚀 Featured projects
+**Freelance frontend developer.** I build fast, responsive websites and web applications for small businesses, startups, and agencies — from the first layout to a deployed, live site. Based in Morocco, working with clients worldwide.
 
-- **[VisaXpress](https://github.com/HamidMbairik/VisaXpress)** — multilingual (EN/FR/AR/中文) landing page for a visa consulting service, interactive 3D globe, full RTL support.
-- **[CorgaDev Portfolio](https://github.com/HamidMbairik/portfolio)** — my own site, React + Tailwind + Framer Motion. Live at [corgadev.com](https://corgadev.com).
-- **[VectraAI](https://github.com/HamidMbairik/VectraAI)** — AI chatbot dashboard/frontend, exploring RAG-based product design end to end.
+## What I do
+
+- **Website Development** — custom, performant websites for small businesses and consultants.
+- **Landing Pages** — focused pages that introduce a product, service, or campaign and make the next step obvious.
+- **Website Redesigns** — modernizing older sites: new structure, mobile-first layout, faster load times.
+- **React Applications** — interactive frontends and data-driven interfaces built with React.
+- **SaaS & Web Applications** — product frontends, dashboards, and app UIs.
+- **Frontend Development** — clean, maintainable HTML, CSS, JavaScript, and TypeScript.
+
+## Tech I work with
+
+HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS
+
+## Selected work
+
+### VisaXpress
+Multilingual landing page for a visa consulting service (EN/FR/AR/中文) with full RTL support and an interactive 3D globe. Built with React and Vite.
+
+- Live: [visa-xpress.vercel.app](https://visa-xpress.vercel.app) · [Code](https://github.com/HamidMbairik/VisaXpress)
+
+### VectraAI
+Frontend for an AI chatbot SaaS: users upload PDFs, URLs, or text to train RAG-powered support chatbots, then embed them anywhere on their site. Built end to end with React.
+
+- [Code](https://github.com/HamidMbairik/VectraAI)
+
+### CorgaDev Portfolio
+My own portfolio site. Built with React, Tailwind CSS, and Framer Motion.
+
+- Live: [corgadev.com](https://corgadev.com)
+
+### NOIR
+Landing page for a fictional New York men's grooming house. React, Vite, and Tailwind CSS, designed around the NOIR brand palette.
+
+- Live: [noir-blue.vercel.app](https://noir-blue.vercel.app/) · [Code](https://github.com/HamidMbairik/NOIR)
+
+### NOVA-AI
+Front-end demo of an AI customer-support SaaS: a marketing site and a full dashboard (conversations, agents, analytics, team, knowledge base). All UI, mock data, no backend.
+
+- Live: [novaai-virid.vercel.app](https://novaai-virid.vercel.app) · [Code](https://github.com/HamidMbairik/NOVA-AI)
+
+### AURA
+Landing page for a fictional physiotherapy and wellness practice. React, Vite, and Tailwind CSS.
+
+- Live: [aura-taupe-phi.vercel.app](https://aura-taupe-phi.vercel.app) · [Code](https://github.com/HamidMbairik/AURA)
+
+### EDUWAY
+Landing page for a fictional study-abroad agency. React, Vite, Tailwind CSS, and Motion.
+
+- Live: [eduway-theta.vercel.app](https://eduway-theta.vercel.app) · [Code](https://github.com/HamidMbairik/EDUWAY)
+
+## Let's work together
+
+Currently open for freelance projects — new builds, redesigns, or taking over and improving an existing site.
+
+- **Portfolio:** [corgadev.com](https://corgadev.com)
+- **GitHub:** [github.com/HamidMbairik](https://github.com/HamidMbairik)
+
+Remote-first, any timezone.
