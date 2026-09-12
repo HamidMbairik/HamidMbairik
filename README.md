@@ -38,7 +38,7 @@ Frontend for an AI chatbot SaaS: users upload PDFs, URLs, or text to train RAG-p
 ### CorgaDev Portfolio
 My own portfolio site. Built with React, Tailwind CSS, and Framer Motion.
 
-- Live: [corgadev.com](https://corgadev.com)
+- Live: [corgadev.com](https://corgadev.vercel.app)
 
 ### NOIR
 Landing page for a fictional New York men's grooming house. React, Vite, and Tailwind CSS, designed around the NOIR brand palette.
@@ -64,7 +64,7 @@ Landing page for a fictional study-abroad agency. React, Vite, Tailwind CSS, and
 
 Currently open for freelance projects — new builds, redesigns, or taking over and improving an existing site.
 
-- **Portfolio:** [corgadev.com](https://corgadev.com)
+- **Portfolio:** [corgadev.com](https://corgadev.vercel.app)
 - **GitHub:** [github.com/HamidMbairik](https://github.com/HamidMbairik)
 
 Remote-first, any timezone.
